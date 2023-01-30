@@ -1,4 +1,4 @@
-# Lire-temperateur-et-l-humidity-DHT-WEBSERVER
+# Lire-Temperateur-et--Humidity-DHT-WEBSERVER
 
 Le serveur Web que nous allons construire met automatiquement à jour les lectures sans qu'il soit nécessaire d'actualiser la page Web.
 
