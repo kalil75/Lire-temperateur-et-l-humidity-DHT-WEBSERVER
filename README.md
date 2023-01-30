@@ -5,5 +5,7 @@ Le serveur Web que nous allons construire met automatiquement à jour les lectur
 
 
 - lire la température et l'humidité des capteurs DHT ;
--Construire un serveur web  en utilisant la librairie WEBSERVER
--Mettez à jour automatiquement les lectures des capteurs sans avoir à actualiser la page Web(c'est un choix avec ajouter un script en java script en utlisant la library ESPAsyncWebServer
+
+- Construire un serveur web  en utilisant la librairie WEBSERVER
+
+- Mettez à jour automatiquement les lectures des capteurs sans avoir à actualiser la page Web(c'est un choix avec ajouter un script en java script en utlisant la library ESPAsyncWebServer
